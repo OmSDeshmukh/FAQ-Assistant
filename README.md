@@ -88,4 +88,4 @@ streamlit run main.py
 
 ## Aknowledgement
 
-A huge thanks to [Codebasics YouTube Channel](https://www.youtube.com/@codebasics) for this valuable project idea. Here is the [Video link](https://youtu.be/AjQPRomyd-k?si=ZKr1PZuxUExvGRW7)and [Github repository](https://github.com/codebasics/langchain/tree/main/3_project_codebasics_q_and_a)
+A huge thanks to [codebasics YouTube Channel](https://www.youtube.com/@codebasics) for this valuable project idea. Here is the [Video link](https://youtu.be/AjQPRomyd-k?si=ZKr1PZuxUExvGRW7)and [Github repository](https://github.com/codebasics/langchain/tree/main/3_project_codebasics_q_and_a)
