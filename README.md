@@ -34,7 +34,7 @@ This is an end to end LLM project based on Google Gimini API, Langchain, Hugging
 3. Create a virtual environment:
 
 ```bash
-python3 -m venv .venv
+python3 -m venv venv
 ```
 
 4. Activate the virtual environment:
