@@ -78,11 +78,11 @@ streamlit run main.py
 ## Project Structure
 
 - src/main.py: The main Streamlit application script.
-- src/langchain_helper.py: This has all the code related to getting the chain for final inference
-- src/get_vector_db.py: This will take the csv file and load the vector database into disk for faster retrieval
-- src/prompt_template.py: This stores the prompt template give as input to the llm
-- notebooks/main.ipynb: Same code as entire project but at a single place in a notebook for testing purposes
-- data/demo.csv: The csv file used
+- src/langchain_helper.py: This has all the code related to getting the chain for final inference.
+- src/get_vector_db.py: This will take the csv file and load the vector database into disk for faster retrieval.
+- src/prompt_template.py: This stores the prompt template give as input to the llm.
+- notebooks/main.ipynb: Same code as entire project but at a single place in a notebook for testing purposes.
+- data/demo.csv: The csv file used for loading data.
 - requirements.txt: A list of required Python packages for the project.
 - .env: Configuration file for storing your Google API key.
 
